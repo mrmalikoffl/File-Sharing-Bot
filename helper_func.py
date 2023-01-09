@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)mrmalik_offl
 
 import base64
 import re
